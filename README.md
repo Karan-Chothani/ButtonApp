@@ -1,6 +1,7 @@
 # buttonapp
 
 A new Flutter application.
+A basic app fot on button click new page/activity.
 
 ## Getting Started
 
